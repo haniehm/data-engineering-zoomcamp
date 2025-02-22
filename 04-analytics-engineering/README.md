@@ -12,7 +12,7 @@ By this stage of the course you should have already:
   * fhv data - Year 2019. 
 
 > [!NOTE]
-> * We have written a python script to load that data quicker. To use it, follow the instructions in [week3/extras](../03-data-warehouse/extras).
+> * We have written a python script to load the data quicker, follow instructions in [week3/extras](../03-data-warehouse/extras.
 
 ## Setting up your environment 
   
